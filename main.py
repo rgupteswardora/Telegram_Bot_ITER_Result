@@ -1,6 +1,6 @@
 import telebot
 import requests
-API_KEY='5211168652:AAHgO41Z4FNIEF08R7z1XSaMvn9plZlxXH8'
+API_KEY='' #u r API KEY
 log_in_url="http://103.112.27.37:8282/CampusPortalSOA/login"
 result="http://103.112.27.37:8282/CampusPortalSOA/stdrst"
 HEADERS = {"Content-Type": "application/json"}
